@@ -1,0 +1,232 @@
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.59
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jan 28 2015 15:51:10 UTC
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.59.0
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 7
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.1
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_20\jre
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_20-b26
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\Azat\Desktop\apache-tomcat-7.0.59
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\Azat\Desktop\apache-tomcat-7.0.59
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\Azat\Desktop\apache-tomcat-7.0.59\conf\logging.properties
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\Users\Azat\Desktop\apache-tomcat-7.0.59\endorsed
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\Azat\Desktop\apache-tomcat-7.0.59
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\Azat\Desktop\apache-tomcat-7.0.59
+Apr 24, 2015 8:56:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\Azat\Desktop\apache-tomcat-7.0.59\temp
+Apr 24, 2015 8:56:42 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Loaded APR based Apache Tomcat Native library 1.1.32 using APR version 1.5.1.
+Apr 24, 2015 8:56:42 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+Apr 24, 2015 8:56:43 AM org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized (OpenSSL 1.0.1j 15 Oct 2014)
+Apr 24, 2015 8:56:44 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8080"]
+Apr 24, 2015 8:56:44 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-apr-8009"]
+Apr 24, 2015 8:56:44 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 4438 ms
+Apr 24, 2015 8:56:44 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 24, 2015 8:56:44 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.59
+Apr 24, 2015 8:56:44 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\docs
+Apr 24, 2015 8:56:45 AM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [258] milliseconds.
+Apr 24, 2015 8:56:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\docs has finished in 1,231 ms
+Apr 24, 2015 8:56:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\examples
+Apr 24, 2015 8:56:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\examples has finished in 1,119 ms
+Apr 24, 2015 8:56:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\host-manager
+Apr 24, 2015 8:56:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\host-manager has finished in 123 ms
+Apr 24, 2015 8:56:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\manager
+Apr 24, 2015 8:56:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\manager has finished in 115 ms
+Apr 24, 2015 8:56:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\ROOT
+Apr 24, 2015 8:56:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\ROOT has finished in 157 ms
+Apr 24, 2015 8:56:47 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-apr-8080"]
+Apr 24, 2015 8:56:47 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-apr-8009"]
+Apr 24, 2015 8:56:47 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2978 ms
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.59
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jan 28 2015 15:51:10 UTC
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.59.0
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 7
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.1
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_20\jre
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_20-b26
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\Azat\Desktop\apache-tomcat-7.0.59
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\Azat\Desktop\apache-tomcat-7.0.59
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\Azat\Desktop\apache-tomcat-7.0.59\conf\logging.properties
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\Users\Azat\Desktop\apache-tomcat-7.0.59\endorsed
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\Azat\Desktop\apache-tomcat-7.0.59
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\Azat\Desktop\apache-tomcat-7.0.59
+Apr 24, 2015 9:51:02 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\Azat\Desktop\apache-tomcat-7.0.59\temp
+Apr 24, 2015 9:51:02 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Loaded APR based Apache Tomcat Native library 1.1.32 using APR version 1.5.1.
+Apr 24, 2015 9:51:02 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+Apr 24, 2015 9:51:03 AM org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized (OpenSSL 1.0.1j 15 Oct 2014)
+Apr 24, 2015 9:51:03 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8080"]
+Apr 24, 2015 9:51:03 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-apr-8009"]
+Apr 24, 2015 9:51:03 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1896 ms
+Apr 24, 2015 9:51:03 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 24, 2015 9:51:03 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.59
+Apr 24, 2015 9:51:03 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\docs
+Apr 24, 2015 9:51:04 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\docs has finished in 599 ms
+Apr 24, 2015 9:51:04 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\examples
+Apr 24, 2015 9:51:04 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\examples has finished in 752 ms
+Apr 24, 2015 9:51:04 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\host-manager
+Apr 24, 2015 9:51:04 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\host-manager has finished in 109 ms
+Apr 24, 2015 9:51:04 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\manager
+Apr 24, 2015 9:51:05 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\manager has finished in 116 ms
+Apr 24, 2015 9:51:05 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\ROOT
+Apr 24, 2015 9:51:05 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\apache-tomcat-7.0.59\webapps\ROOT has finished in 102 ms
+Apr 24, 2015 9:51:05 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-apr-8080"]
+Apr 24, 2015 9:51:05 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-apr-8009"]
+Apr 24, 2015 9:51:05 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1765 ms
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.59
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jan 28 2015 15:51:10 UTC
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.59.0
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 7
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.1
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_20\jre
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_20-b26
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\conf\logging.properties
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\endorsed
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov
+Apr 24, 2015 9:56:05 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\temp
+Apr 24, 2015 9:56:05 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Loaded APR based Apache Tomcat Native library 1.1.32 using APR version 1.5.1.
+Apr 24, 2015 9:56:05 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+Apr 24, 2015 9:56:06 AM org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized (OpenSSL 1.0.1j 15 Oct 2014)
+Apr 24, 2015 9:56:07 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8080"]
+Apr 24, 2015 9:56:07 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-apr-8009"]
+Apr 24, 2015 9:56:07 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2023 ms
+Apr 24, 2015 9:56:07 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 24, 2015 9:56:07 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.59
+Apr 24, 2015 9:56:07 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\webapps\docs
+Apr 24, 2015 9:56:07 AM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [106] milliseconds.
+Apr 24, 2015 9:56:07 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\webapps\docs has finished in 638 ms
+Apr 24, 2015 9:56:07 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\webapps\examples
+Apr 24, 2015 9:56:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\webapps\examples has finished in 642 ms
+Apr 24, 2015 9:56:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\webapps\host-manager
+Apr 24, 2015 9:56:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\webapps\host-manager has finished in 109 ms
+Apr 24, 2015 9:56:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\webapps\manager
+Apr 24, 2015 9:56:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\webapps\manager has finished in 113 ms
+Apr 24, 2015 9:56:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\webapps\ROOT
+Apr 24, 2015 9:56:08 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\Azat\Desktop\JSP_TASK_AzatKashapov\webapps\ROOT has finished in 99 ms
+Apr 24, 2015 9:56:08 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-apr-8080"]
+Apr 24, 2015 9:56:08 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-apr-8009"]
+Apr 24, 2015 9:56:08 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1704 ms
